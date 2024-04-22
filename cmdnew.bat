@@ -1,0 +1,3 @@
+set FLASK_APP=api.py
+flask run -p 3000
+pause...
